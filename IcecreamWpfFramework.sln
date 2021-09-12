@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcecreamWpfFramework", "IcecreamWpfFramework\IcecreamWpfFramework.csproj", "{695D0FA6-3F55-4DC3-9C96-5D07677763BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamFramework", "IceCreamFramework\IceCreamFramework.csproj", "{83D62B4D-5539-4BCC-9A40-787197A2E91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695D0FA6-3F55-4DC3-9C96-5D07677763BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695D0FA6-3F55-4DC3-9C96-5D07677763BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695D0FA6-3F55-4DC3-9C96-5D07677763BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695D0FA6-3F55-4DC3-9C96-5D07677763BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D62B4D-5539-4BCC-9A40-787197A2E91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D62B4D-5539-4BCC-9A40-787197A2E91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D62B4D-5539-4BCC-9A40-787197A2E91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D62B4D-5539-4BCC-9A40-787197A2E91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455EC4B5-7F79-466F-9A45-2CB894A9FFF7}
+	EndGlobalSection
+EndGlobal
